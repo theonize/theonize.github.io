@@ -1,2 +1,3 @@
-# theonize.github.io
-Github pages repo
+# Theonize
+
+Theological stuff...
