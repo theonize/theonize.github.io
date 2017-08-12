@@ -12,6 +12,8 @@ Our mission is to generate and disseminate theological knowledge.
 
 ### [2nd Temple](https://theonize.github.io/2nd_Temple/)
 
+### [Erudition](https://theonize.github.io/erudition/)
+
 ## Software Projects
 
 - [Bible Databases](https://github.com/theonize/bible_database)
