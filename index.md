@@ -14,6 +14,8 @@ Our mission is to generate and disseminate theological knowledge.
 
 ### [Erudition](https://theonize.github.io/erudition/)
 
+### [Zimrat Songbook](https://theonize.github.io/zimrat/)
+
 ## Software Projects
 
 - [Bible Databases](https://github.com/theonize/bible_database)
