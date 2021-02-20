@@ -2,6 +2,21 @@
 
 Our mission is to generate and disseminate theological knowledge.
 
+## Apps
+
+[https://theonize.github.io/envelope/](https://theonize.github.io/envelope/)
+
+
+## Software Projects
+
+- [Bible Databases](https://github.com/theonize/bible_database)
+- [Libre Utilities](https://github.com/theonize/libre)
+- [Logos Music](https://github.com/theonize/logos_music)
+- [Polyhedron Indices](https://github.com/theonize/polyhedron)
+- [Veracity Reader](https://github.com/theonize/veracity)
+- [Entreaty Prayer Managment](https://github.com/theonize/entreaty)
+
+
 ## Repositories
 
 ### [Currier](http://theonize.github.io/Currier/)
@@ -15,12 +30,3 @@ Our mission is to generate and disseminate theological knowledge.
 ### [Erudition](https://theonize.github.io/erudition/)
 
 ### [Zimrat Songbook](https://theonize.github.io/zimrat/)
-
-## Software Projects
-
-- [Bible Databases](https://github.com/theonize/bible_database)
-- [Libre Utilities](https://github.com/theonize/libre)
-- [Logos Music](https://github.com/theonize/logos_music)
-- [Polyhedron Indices](https://github.com/theonize/polyhedron)
-- [Veracity Reader](https://github.com/theonize/veracity)
-- [Entreaty Prayer Managment](https://github.com/theonize/entreaty)
